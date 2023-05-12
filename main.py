@@ -45,7 +45,7 @@ pygame.mixer.music.play(-1, 0.0, 5000)
 sword_fx = pygame.mixer.Sound("assets/audio/sword.wav")
 sword_fx.set_volume(0.5)
 magic_fx = pygame.mixer.Sound("assets/audio/magic.wav")
-magic_fx.set_volume(0.75)
+magic_fx.set_volume(0.85)
 
 #background image
 bg_img = pygame.image.load("assets/images/background/background.jpg").convert_alpha()
