@@ -1,8 +1,10 @@
 # Street Fighter-Style Game Clone
 
+https://github.com/solairamu/street-fighter-game/assets/132320148/8b60bb6c-1362-4d9d-b626-199d17e9e814
+
 ## Overview
 
-This project is a clone of the classic Street Fighter game, developed in Python using the pygame library. It's a two-player fighting game featuring animated sprites, dynamic music and sound effects, a robust scoring system, and an immersive player experience.
+This project is a clone of the classic Street Fighter game, developed in Python using the pygame library. It's a two-player fighting game featuring animated sprites, dynamic music and sound effects, a scoring system, and an immersive player experience.
 
 ## Features
 
