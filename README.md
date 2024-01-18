@@ -1,4 +1,4 @@
-# Street Fighter-Style Game Clone
+# Street Fighter Game Clone
 
 https://github.com/solairamu/street-fighter-game/assets/132320148/8b60bb6c-1362-4d9d-b626-199d17e9e814
 
